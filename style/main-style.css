@@ -12,3 +12,23 @@
   height: 600px;
   background-image:url(https://demo.mintplugins.com/church-plant/wp-content/uploads/sites/17/2016/05/church-plant_home-2.jpg);
 }
+
+.header.container
+{
+  margin-bottom: -63px;
+    position: relative;
+    z-index: 20;
+}
+
+.menu-item 
+{
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.nav-primary
+{
+  float: right;
+}
