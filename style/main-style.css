@@ -1,0 +1,14 @@
+#main-page
+{
+  width: 100%;
+  max-width: 100%;
+  position: relative;
+  top: 0;
+  left: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center 0px;
+  height: 600px;
+  background-image:url(https://demo.mintplugins.com/church-plant/wp-content/uploads/sites/17/2016/05/church-plant_home-2.jpg);
+}
