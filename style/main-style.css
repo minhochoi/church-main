@@ -1,3 +1,19 @@
+h1,h2,h3,h4,h5,h6,p{
+    font-family: dashicons,IcoMoon,'Jeju Gothic',sans-serif !important;
+}
+footer {
+  background-color: #282a2b;
+    border-color: #4b4c4d;
+    border-top-width: 1px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer p {
+      color: cornsilk;
+
+}
+
 #main-page
 {
   width: 100%;
@@ -16,7 +32,6 @@
 
 .header.container
 {
-  margin-bottom: -63px;
     position: relative;
     z-index: 20;
 }
@@ -32,4 +47,13 @@
 .nav-primary
 {
   float: right;
+}
+
+.grid1 {
+    background: url(http://youngnakchurch.org/wp-content/uploads/2013/01/banner_01_1.png) left top no-repeat #d7e1e0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 20px;
 }
