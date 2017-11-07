@@ -119,6 +119,7 @@ line-height: 63px !important;
     border-bottom-color: #bb0000 !important;
     border-bottom-width: thick;
     line-height: 63px;
+    color: #bb0000 !important;
 
 }
 /*
@@ -134,6 +135,10 @@ line-height: 63px !important;
   .navbar-nav > li {
     float: left;
   }
+  #mega-menu-wrap-primary_navigation .mega-menu-toggle
+  {
+      display: block !important;
+  }
 }
 
 /*
@@ -143,6 +148,10 @@ line-height: 63px !important;
 {
   .desktop-menu {
     display: block;
+  }
+  #mega-menu-wrap-primary_navigation .mega-menu-toggle
+  {
+      display: block !important;
   }
 }
 
