@@ -1,5 +1,5 @@
 
-body, h1, h2, h3, h4, h5, h6, li, a, textarea, p, span, dl, dt, dd, td, th, button, strong, label, input 
+body, h1, h2, h3, h4, h5, h6, li, a, textarea, p, span, dl, dt, dd, td, th, button, strong, label, input
 {
     font-family: dashicons,IcoMoon,'Jeju Gothic',sans-serif !important;
 }
@@ -37,7 +37,7 @@ footer p {
     z-index: 20;
 }
 
-.menu-item 
+.menu-item
 {
     text-align: center;
     margin-left: 10px;
@@ -50,7 +50,6 @@ footer p {
   float: right;
 }
 
-<<<<<<< HEAD
 .grid1 {
     background: url(http://youngnakchurch.org/wp-content/uploads/2013/01/banner_01_1.png) left top no-repeat #d7e1e0;
     -webkit-background-size: cover;
@@ -59,7 +58,7 @@ footer p {
     background-size: cover;
     padding: 20px;
 }
-=======
+
 .page-title-bar
 {
     /*background-image: url(//youngnakchurch.org/wp-content/uploads/2017/06/title_bg_04.jpg);*/
@@ -102,12 +101,32 @@ footer p {
 
 }
 
-/* 
+#mega-menu-wrap-primary_navigation
+{
+    background: #ffffff !important;
+    color: #666;
+}
+
+#mega-menu-wrap-primary_navigation #mega-menu-primary_navigation > li.mega-menu-item > a {
+    color: #000 !important;
+    font-size: x-large !important;
+line-height: 63px !important;
+    height: 63px !important;
+}
+
+#mega-menu-wrap-primary_navigation #mega-menu-primary_navigation > li.mega-menu-item.mega-toggle-on > a.mega-menu-link, #mega-menu-wrap-primary_navigation #mega-menu-primary_navigation > li.mega-menu-item > a.mega-menu-link:hover, #mega-menu-wrap-primary_navigation #mega-menu-primary_navigation > li.mega-menu-item > a.mega-menu-link:focus {
+    background: #00000000 !important;
+    border-bottom-color: #bb0000 !important;
+    border-bottom-width: thick;
+    line-height: 63px;
+
+}
+/*
   핸드폰 UI
 */
 
 
-/* 
+/*
   테블릿 UI
 */
 @media screen and (min-width:768px)
@@ -117,7 +136,7 @@ footer p {
   }
 }
 
-/* 
+/*
   테블릿 UI
 */
 @media screen and (min-width:992px)
@@ -127,11 +146,10 @@ footer p {
   }
 }
 
-/* 
+/*
   컴퓨터 UI
 */
 @media screen and (min-width:1200px)
 {
 
 }
->>>>>>> 12695f05344c3a9d22bc850b6416fac5de30b41f
