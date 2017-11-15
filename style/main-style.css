@@ -3,6 +3,27 @@ body, h1, h2, h3, h4, h5, h6, li, a, textarea, p, span, dl, dt, dd, td, th, butt
 {
     font-family: dashicons,IcoMoon,'Jeju Gothic',sans-serif !important;
 }
+
+.big-space {
+    height: 40px;
+}
+
+.space {
+    height: 30px;
+}
+
+.small-space {
+    height: 20px;
+}
+
+.ten-space {
+    height: 10px;
+}
+
+.five-space {
+    height: 5px;
+}
+
 footer {
   background-color: #282a2b;
     border-color: #4b4c4d;
@@ -120,6 +141,12 @@ footer p {
     background: red;
     cursor: pointer;
 }
+
+a.readmorebox:hover {
+
+    text-decoration: none !important;
+}
+
 #mega-menu-wrap-primary_navigation #mega-menu-primary_navigation > li.mega-menu-item > a {
     color: #000 !important;
     font-size: x-large !important;

@@ -21,7 +21,7 @@
 			<h2>주일예배</h2>
 			<p>예배와 말씀</br>
 			박준필 담임목사</p>
-			<div class="readmore">자세히보기</div>
+			<a class="readmorebox" href="#"><div class="readmore">자세히보기</div></a>
 
 		</div>
 	</div>
@@ -30,7 +30,7 @@
 			<h2>주일예배</h2>
 			<p>예배와 말씀</br>
 			   박준필 담임목사</p>
-			   <div class="readmore">자세히보기</div>
+			   <a class="readmorebox" href="#"><div class="readmore">자세히보기</div></a>
 
 		</div>
 
@@ -40,10 +40,11 @@
 			<h2>주일예배</h2>
 			<p>예배와 말씀</br>
 			   박준필 담임목사</p>
-			   <div class="readmore">자세히보기</div>
+			   <a class="readmorebox" href="#"><div class="readmore">자세히보기</div></a>
 
 		</div>
 	</div>
 
 	</div>
 </div>
+<div class="big-space"></div>
