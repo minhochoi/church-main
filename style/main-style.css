@@ -107,6 +107,19 @@ footer p {
     color: #666;
 }
 
+.readmore {
+    width: 40%;
+    margin-top: 30px;
+    background: beige;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.readmore:hover {
+    background: red;
+    cursor: pointer;
+}
 #mega-menu-wrap-primary_navigation #mega-menu-primary_navigation > li.mega-menu-item > a {
     color: #000 !important;
     font-size: x-large !important;

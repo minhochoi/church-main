@@ -21,6 +21,8 @@
 			<h2>주일예배</h2>
 			<p>예배와 말씀</br>
 			박준필 담임목사</p>
+			<div class="readmore">자세히보기</div>
+
 		</div>
 	</div>
 	<div class="col-md-4">
@@ -28,13 +30,18 @@
 			<h2>주일예배</h2>
 			<p>예배와 말씀</br>
 			   박준필 담임목사</p>
-			   		</div>
-			</div>
+			   <div class="readmore">자세히보기</div>
+
+		</div>
+
+	</div>
 	<div class="col-md-4">
 		<div class="grid1">
 			<h2>주일예배</h2>
 			<p>예배와 말씀</br>
 			   박준필 담임목사</p>
+			   <div class="readmore">자세히보기</div>
+
 		</div>
 	</div>
 
